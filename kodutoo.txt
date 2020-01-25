@@ -1,3 +1,5 @@
+lugeda https://jestjs.io/docs/en/getting-started
+
 github first contributions (teiste reposse, repo peab vastu võtma - pull request)
 issue label
 good first issue (koodi ei pea parandama, võib teha suvalise panuse - kassipildi, anekdoodi lisamine, typo parandamine)
